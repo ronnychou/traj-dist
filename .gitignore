@@ -14,3 +14,7 @@ traj_dist/pydist/sspd_v1.pyc
 traj_dist/share/
 traj_dist/ssl/	
 var/
+
+./*.pyc
+./*.pyd
+./.*egg-info
