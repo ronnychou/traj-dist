@@ -15,6 +15,7 @@ traj_dist/share/
 traj_dist/ssl/	
 var/
 
-./*.pyc
-./*.pyd
-./.*egg-info
+__pycache__
+*.pyc
+*.pyd
+*egg-info
